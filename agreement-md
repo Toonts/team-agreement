@@ -1,1 +1,91 @@
+# Team Agreement
 
+Alejandro Rivera
+Daniel Brott
+Lauren Main
+Mandy Mason
+Mario Acevedo
+
+## Cooperation Plan
+
+**Key strengths and how they are best utilized:**
+
+Alejandro: Organizational skills in projects. Adapting to new environments quickly.
+Dan: Reading and understanding the flow of the code, and what the results will be.
+Lauren: Communication
+Mandy: Communication and leadership, finding mistakes in syntax and spelling.
+Mario: Problem solving and troubleshooting, finding the root of the problem and devising best possible solution.
+
+**Professional competencies to work on:**
+
+Alejandro: Innovation and creativity.
+Dan: Artistic skills and communication.
+Lauren: Craft. Learning about industry principles and best practices.
+Mandy: Business acumen and craft. 
+Mario: Asking for help when needed
+
+**Approach day-to-day work:**
+
+Meet at the regular class time (6:30PST M-Th / 9:00PST Sa), for a quick stand-up meeting. Handle project planning: Check in and distribute tasks for the day - short term goals, and how they fit into long term goals. Share concerns, work out issues.
+
+# Conflict Plan
+
+**Group process to resolve conflict:**
+
+If there's a conflict between two members, bring the issue up to another member of the group to mediate.
+
+**What to do if one person starts taking over:**
+
+Have a whole-group meeting to discuss what's happening and why.
+
+**How to approach each other and the challenges of the project:**
+
+Be sure to observe the 15-minute rule and ask for help when needed. No judgment! Just ask!
+
+**How will we raise concerns to members who are not adequately contributing?**
+
+Have a whole-group meeting to discuss what's happening and why.
+
+**How and when will we escalate the conflict if resolution attempts are unsuccessful?**
+
+If whole-group meetings are unsuccessful at resolving conflict, bring in an instructor to mediate and give advice/help.
+
+
+## Communication Plan
+
+**What hours will you be available to communicate? / Platforms (besides class times)**
+Alejandro: Slack/Email - any time before 11:30pm PST
+Dan: Slack/Discord/Email - any time before 12pm PST
+Lauren: Slack/Email - any time before 11:45pm PST
+Mandy: Slack/Email - any time before 12pm PST
+Mario: Slack/Email - any time before 10:30 PST
+SUNDAYS - OFF!!
+
+**How often will you take breaks?**
+
+As needed or every 1-1.5 hours
+
+**What is your plan if you start to fall behind?**
+
+Utilize the 15-minute rule: ask for help. If we are falling behind as a team, we will reassess our goals and priorities, and potentially bring in help from instructors. MPV!
+
+**What is your strategy for ensuring everyone's voice is heard?**
+
+Everyone speaks in the daily stand-up. Delegation: being sure everyone has equitable tasks.
+Concensus voting for any big issues.
+
+**How will you ensure that you are creating a safe environment where everyone feels comfortable speaking up?**
+
+LISTEN when other group members are speaking - let teammates finish thoughts before speaking up/interjecting.
+
+## Git Process
+
+All team members will be administrators on the project's repository. All of the project's code live in GitHub.
+Other resources will be accessed as needed from their sources.
+
+Our initial feeling about using branches is to create branches off of the main branch as needed to handle different tasks within the process.
+
+PR Review workflow:
+A-C-P will happen as often as necessary
+PRs will be discussed at stand-up meetings
+The team will decide who is delegated the task of merging PRs and handling merge conflicts on a daily basis
